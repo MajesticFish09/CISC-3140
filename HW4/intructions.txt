@@ -1,0 +1,4 @@
+after downloading and unzipping it, navigate to the file downloaded and then do
+
+1) npm install
+2) node server/index.js
